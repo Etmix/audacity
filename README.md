@@ -3,6 +3,8 @@
 
 [**Audacity**](https://www.audacityteam.org) is an easy-to-use, multi-track audio editor and recorder for Windows, Mac OS X, GNU/Linux and other operating systems. Developed by a group of volunteers as open source.
 
+This version was forked from the main repository before tracking was added in https://github.com/audacity/audacity/pull/835.
+
 - **Recording** from any real, or virtual audio device that is available to the host system.
 - **Export / Import** a wide range of audio formats, extendible with FFmpeg.
 - **High quality** using 32-bit float audio processing.
@@ -16,6 +18,5 @@
 
 ## Getting Started
 
-For end users, the latest Windows and macOS release version of Audacity is available from the [Audacity website](https://www.audacityteam.org/download/).
 Help with using Audacity is available from the [Audacity Forum](https://forum.audacityteam.org/).
 Information for developers is available from the [Audacity Wiki](https://wiki.audacityteam.org/wiki/For_Developers).
